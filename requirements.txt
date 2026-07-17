@@ -3,4 +3,4 @@ gunicorn
 flask_apscheduler
 requests
 apscheduler
-tconnectsync @ git+https://github.com/TimLottermoser/tconnectsync.git@master#egg=tconnectsync&v=1
+tconnectsync @ git+https://github.com/TimLottermoser/tconnectsync.git@master#egg=tconnectsync&v=2
