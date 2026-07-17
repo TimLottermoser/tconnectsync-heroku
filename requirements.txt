@@ -4,3 +4,5 @@ flask_apscheduler
 requests
 apscheduler
 tconnectsync @ git+https://github.com/TimLottermoser/tconnectsync.git
+
+
